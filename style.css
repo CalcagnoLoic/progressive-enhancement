@@ -1,0 +1,11 @@
+p {
+    font-family: sans-serif;
+    line-height: 1.5em;
+    color: #101011;
+}
+a:visited{
+    color: purple;
+}
+a:hover {
+    color: blue;
+}
