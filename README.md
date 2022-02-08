@@ -20,4 +20,4 @@
 
 ### Création d'une page web avec HTML et CSS
 
-[TODO]
+Création d'une page internet se rapprochant au maximum de l'illustration reçue.
