@@ -16,7 +16,7 @@
 * Le positionnement des éléments avec `display` et `float`.
 
 
-## Dossier `landing-page`
+## Dossier `landing-page`:
 
 ### Création d'une page web avec HTML et CSS
 
