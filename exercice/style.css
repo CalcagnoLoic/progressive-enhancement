@@ -1,6 +1,7 @@
 html {
     background: linear-gradient(5deg, rgb(234, 243, 252), rgb(112, 161, 209));
 }
+
 p, ul, table, figcaption {
     font-family: sans-serif;
     font-size: 1em;
@@ -55,6 +56,8 @@ table, td, th {
 }
 table {
     border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
 }
 #table tr:nth-child(even){ /*permet de color les lignes paires*/
     background-color: #f2f2f2;
@@ -82,4 +85,8 @@ li.chat {
 }
 .first{
     font-weight: bold;
+}
+figure {
+    float: right;
+    margin: 15px 15px 15px 15px;
 }
