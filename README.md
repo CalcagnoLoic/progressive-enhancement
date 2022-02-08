@@ -13,7 +13,7 @@
 * Tout d'abord, une modification de la police a été effectuée grâce aux sélecteurs CSS.
 * La `box model` a été utilisée pour appréhender les concepts de `border`, `margin`, `padding`, etc. Diverses modifications ont été apportées. 
 * Une deuxième partie sur les sélecteurs a été réalisée avec des patterns plus complexes ansi que grâce aux classes (`.class`) et aux ID (`#ID`).
-* Le positionnement... [TODO]
+* Le positionnement des éléments avec `display` et `float`.
 
 
 ## Dossier `landing-page`
