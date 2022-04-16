@@ -1,19 +1,23 @@
-# Projet en lien avec HTML et CSS
+<h1 align="center"> Project related to HTML5 and CSS3</h1>
 
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
 
-## Dossier `exercice` :
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+ 
+</p>
+
+## File `exercise` :
 
 ### HTML
 
-* La première partie du projet consiste en la transformation d'un fichier `.txt` en `.html`.
-* Les `tag` adéquat ont été placés dans le fichier afin de le rendre accessible.
-* Finalement, des `attributs` et des `classes` ont été ajoutés. 
+* The first part of the project is the transformation of a `.txt` file into `.html`.
+* The appropriate `tag` was placed in the file to make it accessible.
+* Finally `attributes` and `classes` were added. 
 
 ### CSS 
 
-* Tout d'abord, une modification de la police a été effectuée grâce aux sélecteurs CSS.
-* La `box model` a été utilisée pour appréhender les concepts de `border`, `margin`, `padding`, etc. Diverses modifications ont été apportées. 
-* Une deuxième partie sur les sélecteurs a été réalisée avec des patterns plus complexes ansi que grâce aux classes (`.class`) et aux ID (`#ID`).
-* Le positionnement des éléments avec `display` et `float`.
+* First of all, the font was modified using CSS selectors.
+* The box model was used to understand the concepts of border, margin, padding, etc. Various modifications were made. 
+* A second part on selectors was done with more complex patterns as well as with classes (`.class`) and IDs (`#ID`).
+* The positioning of elements with `display` and `float`.
